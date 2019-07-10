@@ -42,3 +42,5 @@ The main aim of the data abstraction is to reuse the code and the proper partiti
 Internal implementation can be changed without affecting the user level code.
 
 [Source: https://www.javatpoint.com/data-abstraction-in-cpp]
+
+The example in this directory shows one way how data abstraction can be used in c++, through private variables.
