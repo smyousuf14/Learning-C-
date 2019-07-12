@@ -7,3 +7,7 @@ don't have to use complete name all the time.
 
 In C++, global namespace is the root namespace. The global::std will always refer to the namespace "std" of C++ Framework.
 
+The simple example in the file example1.cpp clearly shows the use of namespace with variables and functions.
+
+
+
