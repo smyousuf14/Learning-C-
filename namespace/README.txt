@@ -9,5 +9,7 @@ In C++, global namespace is the root namespace. The global::std will always refe
 
 The simple example in the file example1.cpp clearly shows the use of namespace with variables and functions.
 
+In example2.cpp, it shows the use of the keyword "using" in selecting the First namespace, such that the full path is not neccessary.
+
 
 
